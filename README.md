@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/ibrahimmakary-compuvision/ibrahimmakary-compuvision/raw/main/assets/profile.gif" alt="Profile GIF" width="800">
+  <img src="https://github.com/ibrahimmakary-compuvision/raw/main/assets/profile.gif" alt="Profile GIF" width="800">
 </p>
 
-<h1 align="center">Hey, I'm [Your Name] 👋</h1>
+<h1 align="center">Hey, I'm ibrahim makary 👋</h1>
 
 <p align="center">
   A passionate senior Flutter developer with a knack for building stunning mobile applications.
