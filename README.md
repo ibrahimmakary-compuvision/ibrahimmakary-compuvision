@@ -45,7 +45,7 @@ I occasionally write about Flutter, mobile development, and tech on my blog. Che
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=dark)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimmakary-compuvision&count_private=true&show_icons=true&theme=dark)](https://github.com/ibrahimmakary-compuvision)
 
 ## 🎵 Fun Fact
 
