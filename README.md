@@ -1,79 +1,50 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title> Ibrahim Makary - Senior Flutter Developer</title>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+# Hey there, I'm [Ibrahim Makary] 👋
 
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      margin: 0;
-      background-color: #f5f5f5;
-    }
-    .header {
-      text-align: center;
-      margin-bottom: 20px;
-    }
-    .avatar {
-      width: 120px;
-      height: 120px;
-      border-radius: 50%;
-      object-fit: cover;
-    }
-    .bio {
-      text-align: center;
-      margin-bottom: 20px;
-    }
-    .badge {
-      display: inline-block;
-      padding: 5px 10px;
-      margin: 0 5px;
-      background-color: #007bff;
-      color: #fff;
-      border-radius: 5px;
-    }
-  </style>
-</head>
-<body>
-  <div class="header">
-    <img class="avatar" src="https://avatars.githubusercontent.com/u/ibrahimmakary-compuvision" alt="Profile Avatar">
-    <h1>[Your Name]</h1>
-    <p>Senior Flutter Developer @ Compu-Vision</p>
-  </div>
+## About Me
 
-  <div class="bio">
-    <p>I'm a passionate Flutter developer with 4 years of experience, dedicated to crafting beautiful and efficient mobile applications. Let's turn ideas into reality!</p>
-  </div>
+I'm a passionate senior Flutter developer with over 4 years of experience at Compu-Vision. I'm dedicated to creating elegant and efficient mobile applications that deliver exceptional user experiences.
 
-  <div class="badges">
-    <a class="badge" href="https://www.linkedin.com/in/yourusername/">LinkedIn</a>
-    <a class="badge" href="https://twitter.com/yourusername">Twitter</a>
-    <a class="badge" href="mailto:your.email@example.com">Email</a>
-  </div>
+## 🚀 What I Do
 
-  <!-- Display GitHub Stats using GitHub API and JavaScript -->
-  <div class="github-stats">
-    <p>Loading GitHub Stats...</p>
-    <script>
-      fetch('https://api.github.com/users/ibrahimmakary-compuvision')
-        .then(response => response.json())
-        .then(data => {
-          const statsContainer = document.querySelector('.github-stats');
-          statsContainer.innerHTML = `
-            <p>GitHub Stats:</p>
-            <img src="${data.avatar_url}" class="avatar" alt="GitHub Avatar">
-            <p>Followers: ${data.followers}</p>
-            <p>Following: ${data.following}</p>
-            <p>Public Repos: ${data.public_repos}</p>
-          `;
-        });
-    </script>
-  </div>
-</body>
-</html>
+- Develop stunning and performant cross-platform mobile applications using Flutter.
+- Collaborate closely with design and product teams to bring pixel-perfect UI/UX designs to life.
+- Implement robust state management solutions for seamless app behavior.
+- Stay up-to-date with the latest Flutter and Dart advancements and best practices.
+- Mentor and guide junior developers, fostering a culture of continuous learning.
+
+## 🛠️ Tech Stack
+
+- Flutter & Dart
+- Firebase
+- Rest-Api
+- google
+- Provider
+- Getx
+- Bloc
+- Google analytics
+
+
+
+## 💬 Let's Connect
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
+- Email: [your.email@example.com](mailto:your.email@example.com)
+
+Feel free to reach out for collaborations, job opportunities, or just to say hello!
+
+## 📚 Blog
+
+I occasionally write about Flutter, mobile development, and tech on my blog. Check it out here: [Link to your Blog](https://yourblog.com)
+
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimmakary-compuvision&count_private=true&show_icons=true&theme=dark)](https://github.com/yourusername)
+
+## 🎵 Fun Fact
+
+Share an interesting personal or tech-related fun fact about yourself.
+
+---
+
+Thank you for visiting my GitHub profile. Looking forward to connecting with you!
