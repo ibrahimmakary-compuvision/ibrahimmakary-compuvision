@@ -1,4 +1,4 @@
-# Hey there, I'm [Ibrahim Makary] 👋
+# Hey there, I'm Ibrahim Makary 👋
 
 ## About Me
 
